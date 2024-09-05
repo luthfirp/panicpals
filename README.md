@@ -1,1 +1,1 @@
-# panicpals
+# Panic Pals Repository
